@@ -1,0 +1,56 @@
+table, td, th {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  table {
+    
+    border-collapse: collapse;
+  }
+
+.my-btn
+{
+    padding: 4px;
+    color: black !important;
+    border-radius: 10px;
+}
+
+a
+{
+    text-decoration: none !important;
+}
+
+.add
+{
+    background-color: seagreen;
+}
+
+.edit
+{
+    background-color: cornflowerblue;
+}
+
+.delete
+{
+    background-color: red;
+}
+
+.main-menu>ul>li
+{
+    list-style-type:none;
+    background-color: lightgreen;
+    margin-bottom: 5px;
+    padding: 5px;
+    
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+tr:hover
+{
+    background-color: #b4abab;
+}
+
+
